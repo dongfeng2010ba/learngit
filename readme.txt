@@ -3,5 +3,5 @@ Git is free software.
 stay hungry,stay foolish
 Git has a mutable index called stage.
 Git tracks changes of files.
-Creating a new branch is quick and simple.
+Creating a new bch is quick and simple.
 
